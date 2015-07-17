@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Invoice", "Pay_Invoice\Pay_Invoice.csproj", "{0D1E2088-C5EA-4CD5-858A-893B998F3F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Invoice_Repo", "Pya_Invoice_Repo\Pay_Invoice_Repo.csproj", "{E2F24519-3F88-4410-8776-79F8E1F1ADF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Invoice_Engine", "Pay_Invoice_Engine\Pay_Invoice_Engine.csproj", "{485FB8AB-0FE2-426D-B182-22673EF2BCFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1E2088-C5EA-4CD5-858A-893B998F3F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1E2088-C5EA-4CD5-858A-893B998F3F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1E2088-C5EA-4CD5-858A-893B998F3F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1E2088-C5EA-4CD5-858A-893B998F3F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F24519-3F88-4410-8776-79F8E1F1ADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F24519-3F88-4410-8776-79F8E1F1ADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F24519-3F88-4410-8776-79F8E1F1ADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F24519-3F88-4410-8776-79F8E1F1ADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485FB8AB-0FE2-426D-B182-22673EF2BCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485FB8AB-0FE2-426D-B182-22673EF2BCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485FB8AB-0FE2-426D-B182-22673EF2BCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485FB8AB-0FE2-426D-B182-22673EF2BCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
