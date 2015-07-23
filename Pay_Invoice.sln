@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Invoice_Engine", "Pay_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Invoice_ServiceLibrary", "Pay_Invoice_ServiceLibrary\Pay_Invoice_ServiceLibrary.csproj", "{A9795815-6B7C-4D6B-A333-0322736C2F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Invoice_BO", "Pay_Invoice_BO\Pay_Invoice_BO.csproj", "{FED822B2-4E59-40CC-8978-943C9DE8458D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pay_Inovice_TestProj", "Pay_Inovice_TestProj\Pay_Inovice_TestProj.csproj", "{73795B5D-8489-4D3C-BF52-2F7A95737EB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A9795815-6B7C-4D6B-A333-0322736C2F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9795815-6B7C-4D6B-A333-0322736C2F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9795815-6B7C-4D6B-A333-0322736C2F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED822B2-4E59-40CC-8978-943C9DE8458D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED822B2-4E59-40CC-8978-943C9DE8458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED822B2-4E59-40CC-8978-943C9DE8458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED822B2-4E59-40CC-8978-943C9DE8458D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73795B5D-8489-4D3C-BF52-2F7A95737EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73795B5D-8489-4D3C-BF52-2F7A95737EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73795B5D-8489-4D3C-BF52-2F7A95737EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73795B5D-8489-4D3C-BF52-2F7A95737EB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
